@@ -1,9 +1,7 @@
 ### NICE To Meet you! 👋
 
 <!--
-**amo33/amo33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**amo33/amo33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <p>
    🔭 I’m currently working on object detection and recommendation system.
