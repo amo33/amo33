@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I'm an intern of A.I startup and I found it every interesting. Everyday I learn such things that encourages me to study more! 
 -->
-!Pytorch(https://img.shields.io/badge/Pytorch-222222?style=plastic&logo=appveyor)
+![Pytorch](https://img.shields.io/badge/Pytorch-222222?style=for-the-badge&logo=Pytorch&logoColor=ffffff)
