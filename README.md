@@ -15,7 +15,8 @@
    <p> TMI : I'm Sophister undergraduate student. I've been studying artificial intelligence by myself. </p>
 </p>
 
-![kubernetes](https://img.shields.io/badge/kubernetes-222222?style=for-the-badge&logo=kuberenetes&logoColor=white)
+![docker]()
+![kubernetes](https://img.shields.io/badge/kubernetes-#326CE5?style=for-the-badge&logo=kuberenetes&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/Pytorch-222222?style=for-the-badge&logo=Pytorch&logoColor=ffffff)
 ![Tensorflow](https://img.shields.io/badge/Tesnorflow-222222?style=for-the-badge&logo=Tensorflow&logoColor=ffffff)
 ![Django](https://img.shields.io/badge/Django-222222?style=for-the-badge&logo=Django&logoColor=ffffff)
