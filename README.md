@@ -14,6 +14,7 @@
    <p>⚡ Fun fact: I am now studying ML parts in google bootcamp. Logical thinking helps me to search and study much more!</p>
    <p> TMI : I'm Sophister undergraduate student. I've been studying artificial intelligence by myself. </p>
 </p>
+
 ![kubernetes](https://img.shields.io/badge/kubernetes-222222?style=for-the-badge&logo=kuberenetes&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/Pytorch-222222?style=for-the-badge&logo=Pytorch&logoColor=ffffff)
 ![Tensorflow](https://img.shields.io/badge/Tesnorflow-222222?style=for-the-badge&logo=Tensorflow&logoColor=ffffff)
