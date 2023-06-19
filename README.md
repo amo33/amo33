@@ -11,7 +11,6 @@
    <p>🔭 I have developed mlops since April. I'm currently using k8s(kubeadm),jenkins, docker in my environment.</p>
    <p>📫 How to reach me: email me to andy700@naver.com :) ...</p>
    
-   <p>⚡ Fun fact: I am now studying ML parts in google bootcamp. Logical thinking helps me to search and study much more!</p>
    <p> TMI : I'm Sophister undergraduate student. I've been studying artificial intelligence by myself. </p>
 </p>
 
