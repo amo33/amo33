@@ -5,8 +5,8 @@
 
 <p>
    <p>🔭 I’m currently working on AI compiler and ML models.</p>
-   <p>🌱 I learned django and machine learning to become a ML Engineer.</p>
-   <p>👯 I’m looking to collaborate on lots of ML Projects. In my perspective, I want to study mlops and data engineering . This is because I want to be an engineer who can deploy ai service with good performance and with good development discipline .</p>
+   <p>🌱 I studied django and machine learning to become a ML Engineer.</p>
+   <p>👯 I’m looking to collaborate on lots of ML Projects. I want to study mlops and data engineering . This is because I want to be an engineer who can deploy ai service with good performance and with good development discipline .</p>
    <p>🤔 I’m looking for help with building my own strength in backend. Plus, trying to deploy ai service myself starting from bottom. As I'd experienced intern, I started studying what is good code.</p>
    <p>🔭 I have developed mlops since April. I'm currently using k8s(kubeadm),jenkins, docker in my environment.</p>
    <p>📫 How to reach me: email me to andy700@naver.com :) ...</p>
