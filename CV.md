@@ -62,7 +62,7 @@ Software & ML Engineer (Full-time) <br> at Neowine in korea
 <br> from KB Kookmin Bank (KB국민은행 사피엔스 4.0) / Dec. 2021 
 <br> Product Manager
 
-- **STAC , SmarTeenApp Challenge 2018 ** - 1st place
+- **STAC , SmarTeenApp Challenge 2018** - 1st place
 <br> 스마틴앱 챌린지 경진대회 2018 - 대상(1위)
 <br> *Contents Recommendation App based on Recommendation Classification Model*
 <br> from SK Planet / Nov. 2018
