@@ -15,7 +15,6 @@ Bachelor degree expected in of Computer Science <br>
 **Expected Graduation** : Feb 2026 <br>
 **Cumulative GPA** : **4.29**/4.50 - 97.9% (**4.50**/4.50 - 100.0% for Major Subjects) <br>
 **Rank** : **5/142** (as of Jan. 2022. in Dept. of Computer Science)
-UnderGraduate CourseWork: Object-oriented programming; System programming; Linear-algebra; Artificial Intelligence; 
 <br>
 
 ### Relevant Skills
