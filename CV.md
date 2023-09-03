@@ -21,11 +21,13 @@ Bachelor degree expected in of Computer Science <br>
 **Programming Experience**
 - About 4 years of programming experience since high school
 - Awarded in programming competitions
+<br>
 **Artificial Intelligence**
 - Studied ML especially **computer vision and model serving**
 - Have experience of creating MLops Level 1 in on-premise system
 - Currently studying Data pipeline for applying concept of mlops Level 2 (including spark , airflow)
 - Studying kubernetes for enabling stable resource system
+<br>
 **ETC**
 - Developing NPU compiler using onnxruntime for government project
 - Studying onnx-mlir in advance
