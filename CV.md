@@ -15,7 +15,7 @@ Bachelor degree expected in of Computer Science <br>
 **Expected Graduation** : Feb 2026 <br>
 **Cumulative GPA** : **4.29**/4.50 - 97.9% (**4.50**/4.50 - 100.0% for Major Subjects) <br>
 **Rank** : **5/142** (as of Jan. 2022. in Dept. of Computer Science)
-
+UnderGraduate CourseWork: Object-oriented programming; System programming; Linear-algebra; Artificial Intelligence; 
 <br>
 
 ### Relevant Skills
@@ -63,6 +63,11 @@ Software & ML Engineer (Full-time) <br> at Neowine in korea
 <br> from KB Kookmin Bank (KB국민은행 사피엔스 4.0) / Dec. 2021 
 <br> Product Manager
 
+- **STAC , SmarTeenApp Challenge 2018 ** - 1st place
+<br> 스마틴앱 챌린지 경진대회 2018 - 대상(1위)
+<br> *Contents Recommendation App based on Recommendation Classification Model*
+<br> from SK Planet / Nov. 2018
+<br> Data & AI Developer 
 
 
 - **Dean's List** 
