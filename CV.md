@@ -27,6 +27,7 @@ Bachelor degree expected in of Computer Science <br>
 - Have experience of creating MLops Level 1 in on-premise system
 - Currently studying Data pipeline for applying concept of mlops Level 2 (including spark , airflow)
 - Studying kubernetes for enabling stable resource system<br>
+- Studying multiple model serving options (torchserve, seldon-core .. etc)
 
 **ETC**
 - Developing NPU compiler using onnxruntime for government project
