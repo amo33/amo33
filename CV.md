@@ -81,5 +81,5 @@ Software & ML Engineer (Full-time) <br> at Neowine in korea
 
 ### Computer Skills
 - Python 
-- kubernetes kubeflow bentoml jenkins
+- kubernetes kubeflow bentoml jenkins docker linux 
 - PyTorch Tensorflow onnx 
