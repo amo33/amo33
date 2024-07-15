@@ -11,8 +11,8 @@
    
 </p>
 
-![cuda](https://img.shields.io/badge/cuda-D24939?style=for-the-badge&logo=cuda&logoColor=white)
+![cuda](https://img.shields.io/badge/cuda-green?style=for-the-badge&logo=cuda&logoColor=white)
 ![docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white)
-![Tensorflow](https://img.shields.io/badge/Tesnorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white)
+![onnx](https://img.shields.io/badge/onnx-023020?style=for-the-badge&logo=onnx&logoColor=white)
 ![c++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
