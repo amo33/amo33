@@ -1,15 +1,15 @@
 <div align="center">
 
 # Curriculum Vitae
-HyunJoon Lee <br> 17. Nov. 2001. <br>
-Dept. of Computer Science, Hanyang University, Seoul, Korea <br>
+HyunJoon Lee, 17. Nov. 2001. <br>
+821029602307, andylee70044@gmail.com <br>
 ML Engineer
 
 </div>
 
 ## PROFILE
 
-Currently researching on large model training acceleration, edge device inference (qualcomm qcs6490 chip). Interested in optimization in diverse level of real world AI system (i.e. system level ,operation level, model algorithm). Former participant of designing and developing AI inference framework under governement project( accelerate multimoal model in heterogrneous model using NPU, PIM). Love studying after work time ( currently studying parallel computing for GPU programming). Fluent in English, Korean.
+Currently researching on large model training acceleration, edge device inference (qualcomm NPU chips). Interested in optimization in diverse level of real world AI system (i.e. system level, operation level, model algorithm). Former participant of designing and developing AI inference framework under governement project(accelerate multimoal model in heterogrneous model using NPU, PIM). Love studying after work time (currently studying machine learning system). Fluent in English, Korean.
 
 ---
 <br>
@@ -31,7 +31,7 @@ Korea/Pangyo
 Korea/Pangyo
 
 - Trained model for illegal product inspection system, achieved 87% accuracy in real world experience.
-- Build Mlops system of level 2 for company automatic model training& deploying used kubeflow, k8s, jenkins, mlflow, grafana for ML job automation & CI/CD
+- Build Mlops system of level 2 for company automatic model training & deploying used kubeflow, k8s, jenkins, mlflow, grafana for ML job automation & CI/CD
 - Designed multimoal model for heterogeneous computing in NPU, PIM under government project.
   - Developed with onnx mlir & onnxruntime.
   - Tested and targeted for xillinx board using c/c++/python
@@ -43,7 +43,7 @@ Korea/Seoul
 - Trained for pytorch programming & streaming input processing for AI service
   - Weekly lecture about AI model to marketing team / planning & implementation team,
 - Built fashion cloth recommendation system
-  - aws ec2 instance: flask, pytorch, onnx, python
+  - With aws EC2 instance using flask, pytorch, onnx, python
 
 ---
 
@@ -54,7 +54,9 @@ Bachelor degree expected in of Computer Science <br>
 **Cumulative GPA** : **4.29**/4.50 - 97.9% (**4.50**/4.50 - 100.0% for Major Subjects) <br>
 **Rank** : **5/142** (as of Jan. 2022. in Dept. of Computer Science)
 <br>
-  
+
+---
+
 ### Honors and Awards
 
 - **KBSC, Kookmin Bank Software Development Contest 2021** - 1st place
