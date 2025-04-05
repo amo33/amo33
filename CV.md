@@ -3,11 +3,49 @@
 # Curriculum Vitae
 HyunJoon Lee <br> 17. Nov. 2001. <br>
 Dept. of Computer Science, Hanyang University, Seoul, Korea <br>
-Maum.ai ML Engineer - 2023/1/2~ current
+ML Engineer
 
 </div>
 
+## PROFILE
+
+Currently researching on large model training acceleration, edge device inference (qualcomm qcs6490 chip). Interested in optimization in diverse level of real world AI system (i.e. system level ,operation level, model algorithm). Former participant of designing and developing AI inference framework under governement project( accelerate multimoal model in heterogrneous model using NPU, PIM). Love studying after work time ( currently studying parallel computing for GPU programming). Fluent in English, Korean.
+
+---
 <br>
+
+## EMPLOYMENT HISTORY
+
+### Jan 2024 — Present
+#### ML engineer, Maum AI
+Korea/Pangyo
+
+- Established LLM server stress test based on Poisson distribution with dataset to get max throughput(A30, M1210, H100 gpus)
+- Developed SLLM inference (qwen, llama 2 llama3 in 4GB memory through optimization)
+- Working with qualcomm under partnership & mentorship
+- Designing & implementing on LLM training framework to accomplish faster training time compared to Megatron.
+- Design & refactor speech-to-face generation service via multiprocessing, resulting 4x faster than previous implementation on a single A30 server.
+
+### Sep 2022 — Dec 2023
+#### ML engineer, Neowine
+Korea/Pangyo
+
+- Trained model for illegal product inspection system, achieved 87% accuracy in real world experience.
+- Build Mlops system of level 2 for company automatic model training& deploying used kubeflow, k8s, jenkins, mlflow, grafana for ML job automation & CI/CD
+- Designed multimoal model for heterogeneous computing in NPU, PIM under government project.
+  - Developed with onnx mlir & onnxruntime.
+  - Tested and targeted for xillinx board using c/c++/python
+
+### Mar 2022 — Jul 2024
+#### ML engineer (Internship), Triplet
+Korea/Seoul
+
+- Trained for pytorch programming & streaming input processing for AI service
+  - Weekly lecture about AI model to marketing team / planning & implementation team,
+- Built fashion cloth recommendation system
+  - aws ec2 instance: flask, pytorch, onnx, python
+
+---
 
 ### Education
 Hanyang University, Seoul, Korea <br>
@@ -16,43 +54,6 @@ Bachelor degree expected in of Computer Science <br>
 **Cumulative GPA** : **4.29**/4.50 - 97.9% (**4.50**/4.50 - 100.0% for Major Subjects) <br>
 **Rank** : **5/142** (as of Jan. 2022. in Dept. of Computer Science)
 <br>
-
-### Relevant Skills
-**Programming Experience**
-- About 4 years of programming experience since high school
-- Awarded in programming competitions<br>
-
-**Artificial Intelligence**
-- Studied ML especially **System for AI and model serving**
-- Many interest in open-source NeMo, vLLM, Alpha, operator optimization.
-- Currently studying cuda programming, pytorch level system.
-
-<br>
-
-### Work Experience
-AI service developer (Intern) <br> at Computer vision start up in korea
-- Studied Backend with video streaming using opencv 
-- Studied Image preprocessing including labeling in computer vision
-- Present AI model lecture to co-workers (Computer vision Domain) 
-- Developed Backend Service for Instance Segmentation and Recommendation service
-- Launched service in AI Expo
-<br>
-
-Software & ML Engineer (Full-time) <br> at Neowine in korea
-- Apply Constrastive Learning Model for Government Project
-- Apply onnx-mlir and developed dialect for NPU accelerator (Temporarily Suspended)
-- Build Environment in Petalinux vmk180 for AI model performance test
-- Test model using onnx-mlir in vmk180 board
-- Developing onnxruntime for Inferencing Multimodal model in NPU
-- Studied kubernetes, kubeflow, mlflow, bentoml, seldon-core, jenkins, dvc for mlops system
-- Applied Mlops level 1 in on-premise ubuntu 20.04.
-- Reduced Inference latency from 5 sec to 0.1 sec by using bentoml
-
-Distributed & ML system Engineer (Full-time) <br> at Maum.ai in korea
-- STF(Speech to Face generation model) service refactor
-- llm server refactor (+benchmark)
-- llm & generative model c++ porting for edge device(qualcomm chip) : LLM (qwen, gemma, llama), STT
-- system level model training research (ongoing)
   
 ### Honors and Awards
 
@@ -73,7 +74,14 @@ Distributed & ML system Engineer (Full-time) <br> at Maum.ai in korea
 
 <br>
 
-### Computer Skills
-- Python, c++, c, cuda
-- kubernetes kubeflow bentoml jenkins docker linux 
-- PyTorch Tensorflow onnx 
+## SKILLS
+
+| Skill | Level | Skill | Level |
+|-------|-------|-------|-------|
+| Docker | Skillful | Linux | Skillful |
+| HTML & CSS | Skillful | Machine Learning | Skillful | 
+| Python | Experienced | Mlflow | Skillful |
+| C++ | Intermediate | Cuda | Beginner |
+| Git | Skillful | jenkins | Beginner |
+| Onnx | Skillful | Pytorch | Skillfull |
+| Kubernetes | intermediate | Bentoml | Skillful | 
