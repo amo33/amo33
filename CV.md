@@ -12,7 +12,6 @@ ML Engineer
 Currently researching on large model training acceleration, edge device inference (qualcomm NPU chips). Interested in optimization in diverse level of real world AI system (i.e. system level, operation level, model algorithm). Former participant of designing and developing AI inference framework under governement project(accelerate multimoal model in heterogrneous model using NPU, PIM). Love studying after work time (currently studying machine learning system). Fluent in English, Korean.
 
 ---
-<br>
 
 ## EMPLOYMENT HISTORY
 
@@ -48,15 +47,14 @@ Korea/Seoul
 ---
 
 ### Education
+
 Hanyang University, Seoul, Korea <br>
 Bachelor degree expected in of Computer Science <br>
 **Expected Graduation** : Feb 2026 <br>
 **Cumulative GPA** : **4.29**/4.50 - 97.9% (**4.50**/4.50 - 100.0% for Major Subjects) <br>
 **Rank** : **5/142** (as of Jan. 2022. in Dept. of Computer Science)
-<br>
 
 ---
-
 ### Honors and Awards
 
 - **KBSC, Kookmin Bank Software Development Contest 2021** - 1st place
@@ -73,8 +71,6 @@ Bachelor degree expected in of Computer Science <br>
 - **Dean's List** 
 <br> Hanyang University (한양대학교)
 <br> 2020-1st, 2020-2nd, 2021-1st, 2021-2nd semesters
-
-<br>
 
 ## SKILLS
 
